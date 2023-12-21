@@ -23,7 +23,7 @@ build:
         context: ./
         push: true
         #dockerfile:  ./Dockerfile
-        tags: alexmdb/webacademy:latest
+        tags: alexmdbar/webacademy:latest
       
 deploy:
   runs-on: ubuntu-latest
